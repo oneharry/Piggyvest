@@ -73,12 +73,10 @@ label {
 
 .selectbox {
    background-color: rgb(224,224,224);
-   overflow: auto;
    border: none;
    justify-content: space-between;
    position: relative;
     width: 320px;
-    height: 25px;
     font-size: 120%;
 }
 #createaccount {
